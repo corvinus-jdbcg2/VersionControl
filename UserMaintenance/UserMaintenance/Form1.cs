@@ -8,13 +8,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using valueAtRisk;
+
 namespace UserMaintenance
 {
     public partial class Form1 : Form
     {
+        PortfolioEntities context = new PortfolioEntities();
+        List<Tick> Ticks;
+       // List<PortfolioItem> Portfolio = new List<PortfolioItem>();
+
         public Form1()
         {
             InitializeComponent();
+         
         }
+
     }
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMaintenance", "UserMain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valueAtRisk", "valueAtRisk\valueAtRisk.csproj", "{03AA02DD-E50F-40A9-9BFD-503C6866C5A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webszolgaltatas", "Webszolgaltatas\Webszolgaltatas.csproj", "{49776667-5F84-44F8-8E3C-CF8AF3F28148}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03AA02DD-E50F-40A9-9BFD-503C6866C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03AA02DD-E50F-40A9-9BFD-503C6866C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03AA02DD-E50F-40A9-9BFD-503C6866C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49776667-5F84-44F8-8E3C-CF8AF3F28148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49776667-5F84-44F8-8E3C-CF8AF3F28148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49776667-5F84-44F8-8E3C-CF8AF3F28148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49776667-5F84-44F8-8E3C-CF8AF3F28148}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
